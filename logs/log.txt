@@ -1,0 +1,241 @@
+Episode: 10/2002, average score over 10 episodes: -359.4115604738246
+Episode: 20/2002, average score over 10 episodes: -337.1541674328868
+Episode: 30/2002, average score over 10 episodes: -182.88351573426425
+Episode: 40/2002, average score over 10 episodes: -177.4243081797261
+Episode: 50/2002, average score over 10 episodes: -147.6380195431573
+Episode: 60/2002, average score over 10 episodes: -120.28560288962949
+Episode: 70/2002, average score over 10 episodes: -113.53381276238038
+Episode: 80/2002, average score over 10 episodes: -177.63168981876234
+Episode: 90/2002, average score over 10 episodes: -108.5703984269766
+Episode: 100/2002, average score over 10 episodes: -160.6272047087457
+Episode: 110/2002, average score over 10 episodes: -90.09575121848118
+Episode: 120/2002, average score over 10 episodes: -26.51069125404789
+Episode: 130/2002, average score over 10 episodes: -94.56366878859043
+Episode: 140/2002, average score over 10 episodes: -71.91841053396148
+Episode: 150/2002, average score over 10 episodes: -44.88220399301971
+Episode: 160/2002, average score over 10 episodes: -107.54016471844697
+Episode: 170/2002, average score over 10 episodes: -94.16460148304012
+Episode: 180/2002, average score over 10 episodes: -129.46001954346025
+Episode: 190/2002, average score over 10 episodes: -66.87386701321063
+Episode: 200/2002, average score over 10 episodes: -31.436079056604246
+Episode: 210/2002, average score over 10 episodes: -21.994052007888584
+Episode: 220/2002, average score over 10 episodes: -11.633983643111772
+Episode: 230/2002, average score over 10 episodes: 0.5879003145114673
+Episode: 240/2002, average score over 10 episodes: -2.0220562796417405
+Episode: 250/2002, average score over 10 episodes: -34.77217472462268
+Saving checkpoint for version 1.0 at: /content/gdrive/My Drive/Colab Notebooks/RL//content/gdrive/My Drive/Colab Notebooks/RL/trained_models/MonteCarlo.model-1.0
+
+Average score over last 250 episode(s): -108.50
+
+
+Episode: 260/2002, average score over 10 episodes: -12.922833099162848
+Episode: 270/2002, average score over 10 episodes: 9.856534422040703
+Episode: 280/2002, average score over 10 episodes: -21.797400374856338
+Episode: 290/2002, average score over 10 episodes: -9.381091505268323
+Episode: 300/2002, average score over 10 episodes: 1.455654952915562
+Episode: 310/2002, average score over 10 episodes: 4.5275545700270685
+Episode: 320/2002, average score over 10 episodes: -5.934369893813965
+Episode: 330/2002, average score over 10 episodes: -46.51380570767718
+Episode: 340/2002, average score over 10 episodes: 5.088360732223176
+Episode: 350/2002, average score over 10 episodes: -28.3143684183095
+Episode: 360/2002, average score over 10 episodes: -13.899379938038447
+Episode: 370/2002, average score over 10 episodes: -100.17253604974388
+Episode: 380/2002, average score over 10 episodes: -96.33626095963226
+Episode: 390/2002, average score over 10 episodes: -94.63561495961584
+Episode: 400/2002, average score over 10 episodes: -131.19968821780031
+Episode: 410/2002, average score over 10 episodes: -89.28437340198158
+Episode: 420/2002, average score over 10 episodes: -56.99887047745705
+Episode: 430/2002, average score over 10 episodes: 13.44494111543862
+Episode: 440/2002, average score over 10 episodes: -18.425158159085054
+Episode: 450/2002, average score over 10 episodes: -84.05170546181492
+Episode: 460/2002, average score over 10 episodes: -68.1864811135254
+Episode: 470/2002, average score over 10 episodes: -261.90225697945436
+Episode: 480/2002, average score over 10 episodes: -291.098261198615
+Episode: 490/2002, average score over 10 episodes: -157.00780503011944
+Episode: 500/2002, average score over 10 episodes: -68.16479037263056
+Saving checkpoint for version 2.0 at: /content/gdrive/My Drive/Colab Notebooks/RL//content/gdrive/My Drive/Colab Notebooks/RL/trained_models/MonteCarlo.model-2.0
+
+Average score over last 250 episode(s): -64.87
+
+
+Episode: 510/2002, average score over 10 episodes: -55.21193434779475
+Episode: 520/2002, average score over 10 episodes: -85.21294026962923
+Episode: 530/2002, average score over 10 episodes: -70.23228809601937
+Episode: 540/2002, average score over 10 episodes: -56.33326476249179
+Episode: 550/2002, average score over 10 episodes: -175.4173886696114
+Episode: 560/2002, average score over 10 episodes: -123.3492273888074
+Episode: 570/2002, average score over 10 episodes: -22.577120829199394
+Episode: 580/2002, average score over 10 episodes: -64.23458336411699
+Episode: 590/2002, average score over 10 episodes: -31.94177083144619
+Episode: 600/2002, average score over 10 episodes: 2.8488319565643594
+Episode: 610/2002, average score over 10 episodes: -15.247279421129258
+Episode: 620/2002, average score over 10 episodes: -76.35569777722057
+Episode: 630/2002, average score over 10 episodes: -2.6923769124954218
+Episode: 640/2002, average score over 10 episodes: -15.099554436607354
+Episode: 650/2002, average score over 10 episodes: 1.621870396975416
+Episode: 660/2002, average score over 10 episodes: 1.1019271999448967
+Episode: 670/2002, average score over 10 episodes: 2.587659235516905
+Episode: 680/2002, average score over 10 episodes: -38.89352870240788
+Episode: 690/2002, average score over 10 episodes: -15.811332119898637
+Episode: 700/2002, average score over 10 episodes: 3.2394260753802016
+Episode: 710/2002, average score over 10 episodes: 48.09453330729597
+Episode: 720/2002, average score over 10 episodes: 77.27925913869782
+Episode: 730/2002, average score over 10 episodes: 81.17347888515778
+Episode: 740/2002, average score over 10 episodes: -36.748923589998675
+Episode: 750/2002, average score over 10 episodes: -12.863899422974356
+Saving checkpoint for version 3.0 at: /content/gdrive/My Drive/Colab Notebooks/RL//content/gdrive/My Drive/Colab Notebooks/RL/trained_models/MonteCarlo.model-3.0
+
+Average score over last 250 episode(s): -27.21
+
+
+Episode: 760/2002, average score over 10 episodes: -84.41166264400978
+Episode: 770/2002, average score over 10 episodes: -41.53126794988414
+Episode: 780/2002, average score over 10 episodes: -28.742047354522562
+Episode: 790/2002, average score over 10 episodes: -27.42660534009148
+Episode: 800/2002, average score over 10 episodes: -24.716715644623942
+Episode: 810/2002, average score over 10 episodes: -40.278847267956806
+Episode: 820/2002, average score over 10 episodes: -19.94548536745367
+Episode: 830/2002, average score over 10 episodes: -22.402265053515144
+Episode: 840/2002, average score over 10 episodes: -21.04330055691623
+Episode: 850/2002, average score over 10 episodes: -23.64126441512831
+Episode: 860/2002, average score over 10 episodes: -15.607389524794476
+Episode: 870/2002, average score over 10 episodes: -7.691404292745491
+Episode: 880/2002, average score over 10 episodes: 21.23420198187955
+Episode: 890/2002, average score over 10 episodes: 46.23762254149325
+Episode: 900/2002, average score over 10 episodes: 77.6888329390661
+Episode: 910/2002, average score over 10 episodes: 33.34811732792308
+Episode: 920/2002, average score over 10 episodes: 66.66340512240488
+Episode: 930/2002, average score over 10 episodes: 72.2584147743118
+Episode: 940/2002, average score over 10 episodes: 45.53801484507818
+Episode: 950/2002, average score over 10 episodes: 108.63625378544376
+Episode: 960/2002, average score over 10 episodes: 75.37191554090914
+Episode: 970/2002, average score over 10 episodes: 65.61514921674038
+Episode: 980/2002, average score over 10 episodes: 28.66976934388244
+Episode: 990/2002, average score over 10 episodes: 65.4074631566298
+Episode: 1000/2002, average score over 10 episodes: 78.53948316356316
+Saving checkpoint for version 4.0 at: /content/gdrive/My Drive/Colab Notebooks/RL//content/gdrive/My Drive/Colab Notebooks/RL/trained_models/MonteCarlo.model-4.0
+
+Average score over last 250 episode(s): 17.11
+
+
+Episode: 1010/2002, average score over 10 episodes: 0.6460361101073694
+Episode: 1020/2002, average score over 10 episodes: -18.97464547063526
+Episode: 1030/2002, average score over 10 episodes: 102.53460347574256
+Episode: 1040/2002, average score over 10 episodes: 116.8405639533579
+Episode: 1050/2002, average score over 10 episodes: -24.135723780084504
+Episode: 1060/2002, average score over 10 episodes: -107.08775071024392
+Episode: 1070/2002, average score over 10 episodes: -105.335615015197
+Episode: 1080/2002, average score over 10 episodes: -95.31057883639446
+Episode: 1090/2002, average score over 10 episodes: -59.13445068531134
+Episode: 1100/2002, average score over 10 episodes: 74.62737072324055
+Episode: 1110/2002, average score over 10 episodes: 107.21862713605985
+Episode: 1120/2002, average score over 10 episodes: 101.12047045922372
+Episode: 1130/2002, average score over 10 episodes: 11.66003659875403
+Episode: 1140/2002, average score over 10 episodes: 87.6500581173756
+Episode: 1150/2002, average score over 10 episodes: 9.66983755246515
+Episode: 1160/2002, average score over 10 episodes: -71.37486141600981
+Episode: 1170/2002, average score over 10 episodes: -96.27523398911225
+Episode: 1180/2002, average score over 10 episodes: -155.72625882308165
+Episode: 1190/2002, average score over 10 episodes: -133.69287819875828
+Episode: 1200/2002, average score over 10 episodes: -122.9804037125322
+Episode: 1210/2002, average score over 10 episodes: -103.6519055731014
+Episode: 1220/2002, average score over 10 episodes: -61.5220245877976
+Episode: 1230/2002, average score over 10 episodes: -98.45404577217963
+Episode: 1240/2002, average score over 10 episodes: -108.87847646652378
+Episode: 1250/2002, average score over 10 episodes: -122.91262405010787
+Saving checkpoint for version 5.0 at: /content/gdrive/My Drive/Colab Notebooks/RL//content/gdrive/My Drive/Colab Notebooks/RL/trained_models/MonteCarlo.model-5.0
+
+Average score over last 250 episode(s): -34.94
+
+
+Episode: 1260/2002, average score over 10 episodes: 40.646093411606614
+Episode: 1270/2002, average score over 10 episodes: -30.45252924758056
+Episode: 1280/2002, average score over 10 episodes: -11.949664257481453
+Episode: 1290/2002, average score over 10 episodes: -52.49380054748576
+Episode: 1300/2002, average score over 10 episodes: -65.51212579393209
+Episode: 1310/2002, average score over 10 episodes: 63.45007293445415
+Episode: 1320/2002, average score over 10 episodes: 46.78961697032647
+Episode: 1330/2002, average score over 10 episodes: 5.712822267008315
+Episode: 1340/2002, average score over 10 episodes: -2.576414927768462
+Episode: 1350/2002, average score over 10 episodes: -22.844779586457133
+Episode: 1360/2002, average score over 10 episodes: -19.723883801404742
+Episode: 1370/2002, average score over 10 episodes: -21.28007638064671
+Episode: 1380/2002, average score over 10 episodes: 10.33681883998672
+Episode: 1390/2002, average score over 10 episodes: 38.26383122297783
+Episode: 1400/2002, average score over 10 episodes: 32.319724693002584
+Episode: 1410/2002, average score over 10 episodes: 63.37432793134659
+Episode: 1420/2002, average score over 10 episodes: -40.539434382462765
+Episode: 1430/2002, average score over 10 episodes: -35.91695976425987
+Episode: 1440/2002, average score over 10 episodes: -16.99089232907616
+Episode: 1450/2002, average score over 10 episodes: -13.642617508057512
+Episode: 1460/2002, average score over 10 episodes: -15.396260145787812
+Episode: 1470/2002, average score over 10 episodes: -15.545961690368674
+Episode: 1480/2002, average score over 10 episodes: 12.486473022864175
+Episode: 1490/2002, average score over 10 episodes: 100.25340815026246
+Episode: 1500/2002, average score over 10 episodes: 46.06027102961109
+Saving checkpoint for version 6.0 at: /content/gdrive/My Drive/Colab Notebooks/RL//content/gdrive/My Drive/Colab Notebooks/RL/trained_models/MonteCarlo.model-6.0
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/training/saver.py:971: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+
+Average score over last 250 episode(s): 3.79
+
+
+Episode: 1510/2002, average score over 10 episodes: 125.87218690045943
+Episode: 1520/2002, average score over 10 episodes: 50.889899176773234
+Episode: 1530/2002, average score over 10 episodes: 130.90492284652663
+Episode: 1540/2002, average score over 10 episodes: 134.76202779965323
+Episode: 1550/2002, average score over 10 episodes: 151.0745140263771
+Episode: 1560/2002, average score over 10 episodes: 135.52818828934952
+Episode: 1570/2002, average score over 10 episodes: 90.41935667456661
+Episode: 1580/2002, average score over 10 episodes: 131.2650588305192
+Episode: 1590/2002, average score over 10 episodes: 132.74923490691117
+Episode: 1600/2002, average score over 10 episodes: 172.23538973982886
+Episode: 1610/2002, average score over 10 episodes: 136.41102031877912
+Episode: 1620/2002, average score over 10 episodes: 148.4517138256166
+Episode: 1630/2002, average score over 10 episodes: 131.63868263781168
+Episode: 1640/2002, average score over 10 episodes: 151.96143264323896
+Episode: 1650/2002, average score over 10 episodes: 142.60128848376252
+Episode: 1660/2002, average score over 10 episodes: 129.58064297872386
+Episode: 1670/2002, average score over 10 episodes: 183.39759839707008
+Episode: 1680/2002, average score over 10 episodes: 173.34102652725267
+Episode: 1690/2002, average score over 10 episodes: 133.93391345311667
+Episode: 1700/2002, average score over 10 episodes: 130.49132172932238
+Episode: 1710/2002, average score over 10 episodes: 152.71645206970226
+Episode: 1720/2002, average score over 10 episodes: 175.44428486823338
+Episode: 1730/2002, average score over 10 episodes: 190.65146945756504
+Episode: 1740/2002, average score over 10 episodes: 178.66556277452315
+Episode: 1750/2002, average score over 10 episodes: 154.52659482370368
+Saving checkpoint for version 7.0 at: /content/gdrive/My Drive/Colab Notebooks/RL//content/gdrive/My Drive/Colab Notebooks/RL/trained_models/MonteCarlo.model-7.0
+
+Average score over last 250 episode(s): 142.78
+
+
+Episode: 1760/2002, average score over 10 episodes: 113.44648717891569
+Episode: 1770/2002, average score over 10 episodes: 145.61889824582272
+Episode: 1780/2002, average score over 10 episodes: 148.46000016508125
+Episode: 1790/2002, average score over 10 episodes: 92.03984436080152
+Episode: 1800/2002, average score over 10 episodes: 109.44137255396716
+Episode: 1810/2002, average score over 10 episodes: 80.43433334842982
+Episode: 1820/2002, average score over 10 episodes: 136.9793475440255
+Episode: 1830/2002, average score over 10 episodes: 161.38463618710625
+Episode: 1840/2002, average score over 10 episodes: 105.67716950089581
+Episode: 1850/2002, average score over 10 episodes: 69.30867621781127
+Episode: 1860/2002, average score over 10 episodes: 100.83102135266039
+Episode: 1870/2002, average score over 10 episodes: 127.75857582433942
+Episode: 1880/2002, average score over 10 episodes: 134.45624651283407
+Episode: 1890/2002, average score over 10 episodes: 137.35349526280623
+Episode: 1900/2002, average score over 10 episodes: 131.31597247243616
+Episode: 1910/2002, average score over 10 episodes: 116.38984695434769
+Episode: 1920/2002, average score over 10 episodes: 116.80139841257751
+Episode: 1930/2002, average score over 10 episodes: 149.247394920345
+Episode: 1940/2002, average score over 10 episodes: 134.7319121902779
+Episode: 1950/2002, average score over 10 episodes: 133.1815007828012
+Episode: 1960/2002, average score over 10 episodes: 81.75162087130634
+Episode: 1970/2002, average score over 10 episodes: -9.704575080086581
+Episode: 1980/2002, average score over 10 episodes: 102.10752914614906
+Episode: 1990/2002, average score over 10 episodes: 118.11245053747825
+Episode: 2000/2002, average score over 10 episodes: 119.59843445509655
+Saving checkpoint for version 8.0 at: /content/gdrive/My Drive/Colab Notebooks/RL//content/gdrive/My Drive/Colab Notebooks/RL/trained_models/MonteCarlo.model-8.0
+
+Average score over last 250 episode(s): 114.27
