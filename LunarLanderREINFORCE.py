@@ -1,12 +1,15 @@
 
-from gymAI.constants.constants import *
+from constants.constants import *
 import gym
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
 
-# ENV_NAME = 'CartPole-v0'
+tf.compat.v1.disable_eager_execution()
+
 ENV_NAME = 'LunarLander-v2'
+# IS_RENDER = False
+IS_RENDER = True
 
 
 def get_model_name():
@@ -161,7 +164,6 @@ def train(episode, version = 0):
                 env.render()
 
             action = agent.get_action(state)
-            # action = 0
 
             next_state, reward, done, _ = env.step(action)
 
@@ -171,7 +173,7 @@ def train(episode, version = 0):
 
             score += reward
 
-            if done:
+            if i > 500 or done:
                 agent.learn()
                 agent.replay()
 
@@ -214,8 +216,8 @@ def train(episode, version = 0):
 
 if __name__ == '__main__':
 
-    loss_overall = train(EPISODE_NUMBER)
-    # loss_overall = train(EPISODE_NUMBER, 11)
+    # loss_overall = train(EPISODE_NUMBER)
+    loss_overall = train(EPISODE_NUMBER, 8)
     plt.plot([i + 1 for i in range(0, len(loss_overall), 2)], loss_overall[::2])
     plt.show()
 
